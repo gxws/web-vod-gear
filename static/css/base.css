@@ -132,14 +132,16 @@ body:after{font-size:26px;width:220px;height:45px;right:25px;bottom:20px;}
 
 /* j_usbalance */
 .j_usbalance .wrap{background:url(../images/002_bg.jpg) 0 0 no-repeat;}
-.j_usbalance .smt_bx{padding-top:80px;}
+.j_usbalance.dgsb .wrap{background:url(../images/dg_fail.jpg) 0 0 no-repeat;}
+.j_usbalance .smt_bx{padding-top:75px;}
 .j_usbalance .smt_bx .btn{min-width:153px;}
 .j_usbalance .info{line-height:30px;width:440px;margin:0 auto;font-size:24px;padding-top:200px;}
 @media (min-width:1280px){
 .j_usbalance .wrap{background:url(../images/003_bg.jpg) 0 0 no-repeat;}
-.j_usbalance .smt_bx{padding-top:110px;}
+.j_usbalance.dgsb .wrap{background:url(../images/dg_fail_HD.jpg) 0 0 no-repeat;}
+.j_usbalance .smt_bx{padding-top:70px;}
 .j_usbalance .smt_bx .btn{min-width:231px;}
-.j_usbalance .info{line-height:50px;width:782px;margin:0 auto;font-size:34px;padding-top:250px;}
+.j_usbalance .info{line-height:50px;width:782px;margin:0 auto;font-size:34px;padding-top:300px;}
 }
 
 /**************************** end p95 ****************************/
